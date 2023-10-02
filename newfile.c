@@ -2,5 +2,5 @@
 #include <stdlib.h>
 
 int main(){
-    printf("This is my new file \n");
+    printf("This is my new file. I've successfully deleted the deletefile.c \n");
 }
