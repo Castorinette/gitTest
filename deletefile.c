@@ -2,5 +2,5 @@
 #include <stdlib.h>
 
 int main(){
-    printf("This is my first file \n");
+    printf("This file will be deleted \n");
 }
